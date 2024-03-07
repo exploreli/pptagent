@@ -3,6 +3,7 @@
 ## 配置鉴权参数
 修改 setkey.sh
 ## 启动项目
+sh setkey.sh
 python pptagent.py
 
 执行后会在项目根目录生成一个pptx
